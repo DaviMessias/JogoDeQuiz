@@ -1,0 +1,26 @@
+#quiz {
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  
+  #question {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
+  
+  #answer {
+    font-size: 1.5em;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  
+  #points {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
+  #surprise {
+    font-size: 1.5em;
+    margin-bottom: 20px;
+  }
+  
